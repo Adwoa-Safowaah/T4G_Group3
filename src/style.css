@@ -1,0 +1,30 @@
+
+*{box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 0;
+  margin: o;  
+}
+
+.first_container{background-color: rgb(249, 130, 19);
+                display: flex;
+}
+
+.A{
+    padding-left: 60px;
+}
+
+.Q{
+    padding-right: 90px
+}
+
+
+.name{padding-right: 1000px;
+}
+
+.as_0{display: flex;
+  flex-wrap: wrap;
+  height: 50px;
+width: 50px;
+border: 2px solid black;
+border-radius: 3px;
+}
